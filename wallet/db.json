@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "uid": 2546,
+      "wallet_amount": 150000,
+      "id": 1
+    },
+    {
+      "uid": 1251,
+      "wallet_amount": 15000,
+      "id": 2
+    }
+  ]
+}
